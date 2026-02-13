@@ -4,9 +4,16 @@ import DeviceManager from "./components/DeviceManager.vue";
 import MultiSender from "./components/MultiSender.vue";
 import ApiDocs from "./components/ApiDocs.vue";
 import ChatHistory from "./components/ChatHistory.vue";
+import PinAuth from "./components/PinAuth.vue";
 
 const currentView = ref("devices");
 const isDark = ref(true);
+const isAuthenticated = ref(false);
+
+const handleAuthenticated = () => {
+  isAuthenticated.value = true;
+  localStorage.setItem("wa_gateway_auth", "true");
+};
 
 const toggleDarkMode = () => {
   isDark.value = !isDark.value;
@@ -18,13 +25,20 @@ const toggleDarkMode = () => {
 };
 
 onMounted(() => {
+  // Check Auth
+  if (localStorage.getItem("wa_gateway_auth") === "true") {
+    isAuthenticated.value = true;
+  }
+
   // Check system preference or default to dark
   document.documentElement.classList.add("dark");
 });
 </script>
 
 <template>
+  <PinAuth v-if="!isAuthenticated" @authenticated="handleAuthenticated" />
   <div
+    v-else
     class="flex min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-200 font-display"
   >
     <!-- Sidebar -->

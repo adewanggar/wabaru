@@ -2,15 +2,15 @@
   "chats": {
     "status@broadcast": {
       "id": "status@broadcast",
-      "conversationTimestamp": 1770947396,
-      "lastMessageRecvTimestamp": 1770947396,
-      "unreadCount": 69
+      "conversationTimestamp": 1770947501,
+      "lastMessageRecvTimestamp": 1770947501,
+      "unreadCount": 70
     },
     "6281399292229@s.whatsapp.net": {
       "id": "6281399292229@s.whatsapp.net",
-      "conversationTimestamp": 1770945637,
-      "lastMessageRecvTimestamp": 1770945637,
-      "unreadCount": 2
+      "conversationTimestamp": 1770947612,
+      "lastMessageRecvTimestamp": 1770947612,
+      "unreadCount": 4
     },
     "78074351751263@lid": {
       "id": "78074351751263@lid",
@@ -20,8 +20,8 @@
     },
     "6287734534339@s.whatsapp.net": {
       "id": "6287734534339@s.whatsapp.net",
-      "conversationTimestamp": 1770945658,
-      "lastMessageRecvTimestamp": 1770945658,
+      "conversationTimestamp": 1770947604,
+      "lastMessageRecvTimestamp": 1770947604,
       "unreadCount": 0
     },
     "246651465797746@lid": {
@@ -32,8 +32,8 @@
     },
     "6283857706048@s.whatsapp.net": {
       "id": "6283857706048@s.whatsapp.net",
-      "conversationTimestamp": 1770946772,
-      "lastMessageRecvTimestamp": 1770946772,
+      "conversationTimestamp": 1770947656,
+      "lastMessageRecvTimestamp": 1770947656,
       "unreadCount": 0
     }
   },
@@ -3329,6 +3329,52 @@
             "deviceListMetadataVersion": 2
           }
         }
+      },
+      {
+        "key": {
+          "remoteJid": "status@broadcast",
+          "remoteJidAlt": "4127581044819@lid",
+          "fromMe": false,
+          "id": "AC1219A77F59A5BE9A6D87ADAA10E6E1",
+          "participant": "6287787981960@s.whatsapp.net",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947501,
+        "pushName": "Deendriyahnf",
+        "broadcast": true,
+        "message": {
+          "senderKeyDistributionMessage": {
+            "groupId": "status@broadcast",
+            "axolotlSenderKeyDistributionMessage": "Mwj8xOkeEAQaIIN8yI1ktt0tV1zNyhxuapjft0EsBoHoAwYOrBJar1xWIiEFmGBzMlV99LAsNq2OIPC14pmyix7DPY/+x/ZwC/q3ZBo="
+          },
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7161-24/592531505_1456817252513663_4532097607349870474_n.enc?ccb=11-4&oh=01_Q5Aa3wFUzczmwF1ywTZ7X5lWGC_lWLI3dOPeauUoxTu9LGeGfw&oe=69B5EEC3&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "KMAa9ianwibfpfptQmMQDDBQ2L1TDNIm6bTKhFkbjrI=",
+            "fileLength": "5919026",
+            "seconds": 82,
+            "mediaKey": "7h5gmaaUmc0t9rALPB+s7B1DFrcV68/BHhBMBGjdiUk=",
+            "caption": "Tulunggggggg mau boneka iniiii😩",
+            "height": 1024,
+            "width": 576,
+            "fileEncSha256": "Qzumy+IjT7KuoZbiBJB3ozxeogeYy5mDd2TLiR68KUE=",
+            "directPath": "/v/t62.7161-24/592531505_1456817252513663_4532097607349870474_n.enc?ccb=11-4&oh=01_Q5Aa3wFUzczmwF1ywTZ7X5lWGC_lWLI3dOPeauUoxTu9LGeGfw&oe=69B5EEC3&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1770947484",
+            "jpegThumbnail": "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",
+            "contextInfo": {
+              "pairedMediaType": "NOT_PAIRED_MEDIA",
+              "statusSourceType": "VIDEO"
+            },
+            "streamingSidecar": "s5xvGClRg+/a2103fQ0hzF4D6Mb6PDXGRn5GDaIpFZ85HrB1Bhg4sGlGcJGUWYIMRHfQhr4zf8Z1D8hO6MkrdL1rDfH1ccbCDit5I6GiKypuRPNgaDLF0bH9UHVCSf1AvNJm9YCn8NaxApzHnQrAFAz+hDRsPkpEJf8a4eQwheU8Fcz5gP5N+Xb6rLnJeE9jIxaoGuXidr5a/AJORjwS7Dtg0SKtpFQVRRGNaBLPjhlpBXY29LcG6jMsFQxqRIQQz8sz9hWx2O0434FJis/AduiH2tBiiZ9FxE1hXQ5eB8rXh6jJImvQ5ZqpAtyDuOTlU+ggc719qmRJFQPxUZtbzX5YjYql7uX+yvO6ZbyIcopLQTCgiVRu7dRln0+GrFTqh2oh4pXllJ/Zd5TzI9Nmw9euemN3A/KS0x5atOyA+9lRcEIQkTwtqyoprKSSVqCRuWU1YnAI25E4Qoaz9EyX5s4KmiZ/QrXmBdGgSGlfowSUu6b0yjhEXYTlM5Wm1tsZ3bGZKghAZg6lCIIEzYmziauo52jOrBS6TVd9g+ijF9EXVKGDDXFZe3pUId5Ib1/759s2Olgb8efvAgscwoDql3g/2t5bafThCumcq2NGivIa5SW1gbBz0r8GjKQH3V49/wrSAUcFDzYHe6CFBoGrucnFHTjXAUIJBGdhFZP88XKVMnk5eJq77R8n8BkNmdREJFwfxgh7pqeBUbi4SlgjWYgzjf9U8FgTIpCEn3I8yiOmnSPIe/1PKUrxIJ21nNxRIVM7vKHh0R3BSPJA04tBCOQ5VXnqAlNBqNE84r/c201OV4azi8Lwsjig9GRYzk1srtPz/O3RuN2Dp6I//pjfYdps3OthZ6lG7iJTd8Zmo+wPb3e5ZqrIZHd84RF2ARH3+OnhO/1JhEACtNDiS6BZw1AGeMPqCvuYfiGF1g7bxjxy7+yHQV5UTEvYYUCzd23dKVt5wOF8wvnGEF2cBk/oOtKCa1rjMPwkftohrupnLZmBoZwLl48HEEOv8/S6jUOHuWMffLVnif0SPDRLHXY1JynamHyGDUyqUjKzSI7nQr7BU5MGV5CVahksgBM6c/qfuK0MgOERj0YY9o94PHAsY3kGI4rklyzY2JkPehmum9LNeUSWepMt5AYrMdmRvfL6mMJbdbJVlflQ8DsSxEolp5orBsvS4QfhQcwNNuke8cb5V79uLOxIS9iKhK18rw==",
+            "thumbnailDirectPath": "/v/t62.36147-24/635112456_839057209167769_8041962375992190728_n.enc?ccb=11-4&oh=01_Q5Aa3wF5KVJ4lagAIu05loOn2tzRWntt-TgMv0d-XaPTjNTxHg&oe=69B60927&_nc_sid=5e03e0",
+            "thumbnailSha256": "Mu+k11uKDwkkUxUopa0QU8wvCig+vzRclYyyNMFGkYs=",
+            "thumbnailEncSha256": "NkxP08o0+A2KyRblZprPEC+02S/mBlDzbCE6ngqNTu8=",
+            "externalShareFullVideoDurationInSeconds": 0
+          },
+          "messageContextInfo": {
+            "messageSecret": "k9gUNqITSNAGKgDxBIGK6ft0u1O/LmL/MaXZYvd240w="
+          }
+        }
       }
     ],
     "6281399292229@s.whatsapp.net": [
@@ -3414,6 +3460,92 @@
         "status": 2,
         "message": {
           "conversation": "Selamat pagi, bisa diinformasikan ingin MCU apa kak?"
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281399292229@s.whatsapp.net",
+          "remoteJidAlt": "15440474558712@lid",
+          "fromMe": false,
+          "id": "3A613C2982D0C3E99240",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947440,
+        "pushName": "S",
+        "broadcast": false,
+        "message": {
+          "conversation": "Yg basic",
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderTimestamp": "1770913964",
+              "recipientKeyHash": "+7ptIc5NtgVWRw==",
+              "recipientTimestamp": "1770884048"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "c3gtZCcDePDkcVJmoetnMuqwQF0ES6wrfZq52DK8A8w="
+          }
+        },
+        "status": 4
+      },
+      {
+        "key": {
+          "remoteJid": "6281399292229@s.whatsapp.net",
+          "remoteJidAlt": "15440474558712@lid",
+          "fromMe": false,
+          "id": "3A14CE5A3818D1752EAB",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947570,
+        "pushName": "S",
+        "broadcast": false,
+        "message": {
+          "conversation": "Ini saya langsung menuju kesana ya",
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderTimestamp": "1770913964",
+              "recipientKeyHash": "+7ptIc5NtgVWRw==",
+              "recipientTimestamp": "1770884048"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "OnOXJI3C11JcwF3lngs0urhgjBGzEV0HwMXiAjZJAmg="
+          }
+        },
+        "status": 4
+      },
+      {
+        "key": {
+          "remoteJid": "6281399292229@s.whatsapp.net",
+          "remoteJidAlt": "15440474558712@lid",
+          "fromMe": true,
+          "id": "2A2E83CEF5B7B91071DB",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947590,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 2,
+        "message": {
+          "conversation": "Sebelumnya sudah puasa kak? minimal 10 jam maksimal 12 jam"
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281399292229@s.whatsapp.net",
+          "remoteJidAlt": "15440474558712@lid",
+          "fromMe": true,
+          "id": "2A55ACB3A0D7441038F0",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947612,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 2,
+        "message": {
+          "conversation": "*ATURAN PUASA PEMERIKSAAN LABORATORIUM*\n\n- Puasa berlaku selama 10-12 jam sebelum pemeriksaan\n- Hanya diperbolehkan minum air mineral\n- Puasa dihitung berdasarkan jam terakhir makan"
         }
       }
     ],
@@ -3558,6 +3690,24 @@
           "conversation": "Selamat pagi, untuk konsultasi dokter umum Rp65.000 kak belum termasuk obat"
         },
         "verifiedBizName": "Customer Care Mitra Medicare - Cahaya Lab"
+      },
+      {
+        "key": {
+          "remoteJid": "6287734534339@s.whatsapp.net",
+          "remoteJidAlt": "78074351751263@lid",
+          "fromMe": true,
+          "id": "2A2804875861E8179100",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947604,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 3,
+        "message": {
+          "conversation": "Belum tersedia kak untuk spesialis tersebut di klinik kami🙏🏻"
+        },
+        "verifiedBizName": "Customer Care Mitra Medicare - Cahaya Lab"
       }
     ],
     "246651465797746@lid": [
@@ -3585,4 +3735,52 @@
             "deviceListMetadata": {
               "senderKeyHash": "96tsOzYvVoH3gA==",
               "senderTimestamp": "1770695165",
-              "reci
+              "recipientKeyHash": "+7ptIc5NtgVWRw==",
+              "recipientTimestamp": "1770884048"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "CUknIfJZET1wzPkWzS20V7XiLe6WPiGjytzL+8CxLs4="
+          }
+        }
+      }
+    ],
+    "6283857706048@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6283857706048@s.whatsapp.net",
+          "remoteJidAlt": "246651465797746@lid",
+          "fromMe": true,
+          "id": "A552F07EE85000E150F322F2A89E5C94",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770946772,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 2,
+        "message": {
+          "conversation": "Terima kasih telah menghubungi Customer Care Mitra Medicare dan Cahaya Diagnostic Centre.\n\nDengan siapa kami berbicara? Silakan beri tahu apa yang dapat kami bantu🥰🙏\n\nJam Operasional Customer Care (Fast Response): \nSenin - Jumat 08.00 - 16.00 WIB\nSabtu 08.00 - 14.00 WIB\nMinggu (slow respon)\n\n\n*HUBUNGI NO BERIKUT UNTUK LAYANAN LAINNYA*\nKLINIK: wa.me/6281333026820\nTANYA HASIL LAB: wa.me/6281333026817\nFARMASI: wa.me/6282332420113"
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6283857706048@s.whatsapp.net",
+          "remoteJidAlt": "246651465797746@lid",
+          "fromMe": true,
+          "id": "2A12161AC7522B5677F4",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947656,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 2,
+        "message": {
+          "conversation": "Selamat pagi, bisa kak silahkan. Untuk USG Adomen wajib appointment terlebih dahulu nggih🙏🏻"
+        },
+        "verifiedBizName": "Customer Care Mitra Medicare - Cahaya Lab"
+      }
+    ]
+  },
+  "contacts": {}
+}
