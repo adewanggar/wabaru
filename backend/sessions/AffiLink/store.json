@@ -1,0 +1,1134 @@
+{
+  "chats": {
+    "status@broadcast": {
+      "id": "status@broadcast",
+      "conversationTimestamp": 1770944059,
+      "lastMessageRecvTimestamp": 1770944059,
+      "unreadCount": 4
+    },
+    "6281225125437@s.whatsapp.net": {
+      "id": "6281225125437@s.whatsapp.net",
+      "conversationTimestamp": {
+        "low": 1770947162,
+        "high": 0,
+        "unsigned": true
+      },
+      "lastMessageRecvTimestamp": {
+        "low": 1770947162,
+        "high": 0,
+        "unsigned": true
+      },
+      "unreadCount": 13
+    },
+    "6281515142878@s.whatsapp.net": {
+      "id": "6281515142878@s.whatsapp.net",
+      "conversationTimestamp": 1770933999,
+      "lastMessageRecvTimestamp": 1770933999,
+      "unreadCount": 1
+    },
+    "6285713882819@s.whatsapp.net": {
+      "id": "6285713882819@s.whatsapp.net",
+      "conversationTimestamp": {
+        "low": 1770903215,
+        "high": 0,
+        "unsigned": true
+      },
+      "lastMessageRecvTimestamp": {
+        "low": 1770903215,
+        "high": 0,
+        "unsigned": true
+      },
+      "unreadCount": 1
+    }
+  },
+  "messages": {
+    "status@broadcast": [
+      {
+        "key": {
+          "remoteJid": "status@broadcast",
+          "remoteJidAlt": "202512187535393@lid",
+          "fromMe": false,
+          "id": "3AE32613625CCBBA34F4",
+          "participant": "6285812615857@s.whatsapp.net",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770901026,
+        "pushName": "Aikale4",
+        "broadcast": true,
+        "message": {
+          "senderKeyDistributionMessage": {
+            "groupId": "status@broadcast",
+            "axolotlSenderKeyDistributionMessage": "Mwjb5+eIBBAAGiAzFEfxahtDYEZfqKleKx/UpVu3j0Y6R1DGiR+bDUXd8yIhBX7JO2a+gfCZ8isTEj7OOaqFMvNZGXjeiCHlOjNt08gW"
+          },
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7161-24/30587856_2726365867708877_2052944197482787810_n.enc?ccb=11-4&oh=01_Q5Aa3wH1rR4haVhvRYXSAEET0Rpi0yHN-C6J0-aOi6kNOyUsLg&oe=69B5528A&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "ebKsDY0aWLDSHxI2vmvZNkddNorVl0XFhHkzV3Na8oQ=",
+            "fileLength": "9564502",
+            "seconds": 33,
+            "mediaKey": "9BvUDfcxmfMqfWwiozMwe+BH9gICVKN5/LJg63PwzoU=",
+            "caption": "Kita tidak sendirian, di luar sana banyak orang orang yang bertahan hidup sendirian 🥹 semoga Allah membersamai orang-orang yang berjuang demi kehidupannya 🥹🤲🏻",
+            "height": 1024,
+            "width": 576,
+            "fileEncSha256": "R8LUHXO01kZ1r+40liVmwagAHBmIWMJpZ8972e/Kn34=",
+            "directPath": "/v/t62.7161-24/30587856_2726365867708877_2052944197482787810_n.enc?ccb=11-4&oh=01_Q5Aa3wH1rR4haVhvRYXSAEET0Rpi0yHN-C6J0-aOi6kNOyUsLg&oe=69B5528A&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1770901019",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABEMDQ8NCxEPDg8TEhEUGSocGRcXGTQlJx8qPTZBQDw2OzpETGJTREhcSTo7VXRWXGVobW5tQlJ4gHdqf2JrbWn/2wBDARITExkWGTIcHDJpRjtGaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWn/wgARCABgADYDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCAf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAADBj2MEw8kRnzTRQs8PBmjzz3P1TO7MsHoqs0HDknJDZMFLyn1aQQktFy0pa8c0DgmZO19PsuOz1XY2aonfMLD0mH1pew22pxMI20jP2qprGiIWH5y5s9RzmQWn4zYD0RAf/8QAHhEAAgEEAwEAAAAAAAAAAAAAAAERAhIxUQMQIRP/2gAIAQIBAT8AySkfWjZfTspwW3CUKHsUQLwucHKnM9JFS2cqwKTDG2x+r0sIII6//8QAHBEAAgIDAQEAAAAAAAAAAAAAAAEQEQIxQRIg/9oACAEDAQE/ALi0WjpdKdw1UN9MMr0ZQtCSWho8/P8A/8QANxAAAgEDAgIGCAQHAQAAAAAAAQIDAAQREiEFMQYTIkFRcRQjMmGBkaHRRLHB4RUWIDAzQkOT/9oACAEBAAE/AP65ejhgUPLdqqb5bRyA+NWXBbe8iLx8QwAcHMJ2+tHo+mVxxGF1LYJVGOnzqLowZtfV3qHQAd4yM/Wh0PkIJ9NT/wAz96HRaQxB/Sl3GcaD96PRuUf9wfJP3q/t1u1EKyhY2L5dgdwCPCrcnhV5NbOQ6PhSV+hqO3ntrfPZznV2TnT51DdRlRHJIQ7phVxjUQRyNLkJ4jFaj6NGwXB0DkOW1Xjzxvi2LjO7EZGakllSOMwwGYsH21AYGdzvzqVjdX40RSASOAAxBOPOruyeOYixilnhKDGrbB8NxV3wnibzxyGNQVIKnUBilkYxYOchMnPdtQOYI9zjQPyq8TDqyqC2N8vj9KscRFxKjBuqfSuMnO1cMnsrFxK0MtzcjdERchffnxq56T37Mxh4eQFwO2GOCflX8V43cxB2tFWFtg4XYHzzVibvqJWvChYg6QOY2oalgj7vVrtj3VMkQl1S6S5zjs52/KpraTiMomjmVmA7JRtOTkd+OdWNjLwziUUtyJFVQeS89u48q6TXctzNkStIpXICjYD3jxro1JcxW82UJhIxokBwWq19IW/nDH1bK2mJQdKjHdmipFup3AKAb+VXNsjnnI2/cM00rxQW6wwtsWxggkLnvOKl4o0lrHCT1bOh1de3KriPBk03ytp3C6+dS3bxouV1MVDEhip+lWd8bibsu/8AjJ04wPZosTANRzhefhVx1rNmNuyO/lUjSR8NtZJkkDqXyo54z3+6rHTKzo8XWLp5SDbn7qktbcI5W0jDAHuO9S6mkDCNwu4IZcYrh8sLS+ryW6twTnb2aRSEGvY6RsfKrqPMvZXC47zVi6m7YuF9g4z5iru3huogjYABz2cUeD2x/wB3+BqTgVq+okzEsMEl2NDg1tYvJLGjCQIwySe8VdTQCBWkbBPsjxq8V2WNyMBhkZGKCmG7HqVfs7ahypbtyoxbn4cqa7lX8Pp97Gmubk8li35bEmrhbieJg6IDjbYg16DKbxZZijRDfTnu7hilQFQ3ZOeXlT9OLxmLLawgnv5/pQ6b3wXBiQnxz+1fzre53hT5/tQ6aXoOepj+IH2o9Nb084IfkPtR6Y3R/DQ/Ifam6T3LtmSPPuDYA+n9j//+AAMA/9k=",
+            "contextInfo": {
+              "featureEligibilities": {
+                "canBeReshared": false
+              },
+              "statusSourceType": "VIDEO"
+            },
+            "streamingSidecar": "NpLSDa1Nq0FlXQCU8ZDvXZAgmLdxWtMotYS46IqV87p1ryXh0qR33LlDwIUERugoHwRXSlv9xvF78DhjEw2K6DdhdOgCE9Cq9dkKJXLWV4kQxG0VKAJBA2XrtXmiDRP6sMQb5lVs9Y2ihMgHEYXZe7mHZNHW9CmJk5LMC/n/b90GbGvkf8Cg+95BUpGtqsaPDmh6OpEUHk4ZtXIBahOd1LmqHvSKc1at6Xl066cprDqcsQjxdcfn3CAKx9+f0+dILGM5egMJxsyq246DzfwOqXU8CJjMgN3SaEY5li3asnNK3VE6PekF6tH+cjZQgS2tYN4VV0vwz0p/dOVJT7vgJPyLTdK4fzUERftSQ2gMxy5KsZliRsaU06Uyt9anf1o3dmRGuGO3lNK154JphNyrZz/Rc0cCUD3lGIqr/wjKO+axBIpidbesqF6yqW1GJU+cLj6uZ9ioFYSGHMMEiUBvxvjeKQTTfb+oX0+euT4DJoGfG5jH6HWfpwzaHBiBldKKVHuxWIni5UTUFNftifiuvT2SkQ+92Oqtxn8TaCk40MfOuL3WqpxlkGhz1QXVRCaw36yvV+C0sASfjiCxoy28lODqdvb7kx20dwF4V8i88cTicwDHXRBl+u5nWx5/zBxUG+QWMSmGJ8KALHVFR7aglDUBtATgVwWDz/39DUadJJflAYIb1E/wKhBwMrsTSNoVRFrH3GMwzUoAiy01fN2uPP3/tJXMVnaOiPBEVdvBb3id8I60ac0j8F9yfEYhO9QfyiikmVyL7j+BNfcNTA94qbfp6J1l8XmJ53mczDb/helcU+Ka1qSsXlzQK/s91/pkmuyLY5SiwdEcBLAzOTzUYVDsBJpXMByukRcMVaqqBvgtYih/D7O0wwwL92YLymG2XAgmM6KOMWkmNtH97quHWfRnFBIykrdMM/v+Casq/Nv7Fh2iPqHZ3It3IVBnfo5EWKAe0oDVJEUBNuyafwIQ6+ZHZ7WFuPXK+kLZZVivhzxtPxVAFEmfmSJx1LP7sSIDBI5FI47jbTH46P2RRi3tOY5qKWsSCz9QaeyXoz3uAA5HNFvkibBUTmNx6Qy6IwI7eRxNmz03LS8RvTF3ZzW2kd2xBJbi9sjSBOoNAzFAiy2dyEg1zqUrPiRVpilA0GepYudzIQX8eBksEekDKLwnzHVElOHQGwKiI3fdVGZyghLbpYm/wFYva2F+9JBcTTNMP92XzlqZI4MY1gI4jCT5SKiHXM0CiHQk7d6nkMWSYFttH5DCUYKs477q+a0Gbk256nfjg1IDekbvLq3ACIgk8SJwOOw3Km3rFrXQouHm0sKzKRr3mwqymZuN1qPL/k/eJtkksq0MQXWylBPFn7X+Nfx00KHa3XwRUQ/BRyD7m/xFbDorJzzQdh5diV47MQ3eheUTmoIK2wqDeqMftlgenN4nifCcHoPGiv8JDA1x3untHiQ281x7p8I2gz/rlM6D2D+H6wYM/R5kFbeNzM9MjftnM1CrIBytEg0ALwnvOAZvmg5N4nLURgRJPusFzWqtuD0a2+qbmMf444XMYGeg6oYGLqlwWPjIr/DCY48uUfjvYYbi7BFgs8Eocogf0bONcLxfvIyde3F2OhO+i2Q9X2BiZND3Df2MCf15N6LUrp6GAbwEB0rYrZB+W1FxhqaZARAdDJasev2FDpMWGlcKngbM1roGOtuirDU7CGHeSX8ljuMBp8a3Qa+oVDotENF40a2zIyDWteDYMLyMLFw/fb5nt+Ch3Xjeh+xkevihu0hlr/xb+Bb3RA6G2xqhd6qL/PNeA/YSNTyjrVzE2rLyqHAX8+sCy+J4b46HhjmGgx0C0GR8u2EEMi3jOzH9caulWRs6/lP/nbfJGcdmN4edVxaWDbwm9e9jq3F4w/Eeyffaec0aUpz3Q5aCDY2KRDB8Oxzvcu3ynJQdIUWr+1/Zr84vibc=",
+            "thumbnailDirectPath": "/v/t62.36147-24/27396319_1420396332959990_5631477990998764044_n.enc?ccb=11-4&oh=01_Q5Aa3wHUxXze1CHmZHWsxK1Pe8J4-idT7NXk4EgryvG7JTNMEw&oe=69B52B0A&_nc_sid=5e03e0",
+            "thumbnailSha256": "rRqsrFXaDE7G/sVEYNucxrgzIto2GSpIo+FUw18AXSU=",
+            "thumbnailEncSha256": "rkvM1lqIghviS05sEnjWBukJLyxg7qpcHPpAPT8BuIo=",
+            "metadataUrl": "",
+            "videoSourceType": "USER_VIDEO"
+          },
+          "messageContextInfo": {
+            "messageSecret": "9NxqihHxRYr55TvZelD23TBCuVNiMUcms+HRCgGiMo4="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "status@broadcast",
+          "remoteJidAlt": "109736531914898@lid",
+          "fromMe": false,
+          "id": "3A472FDB7A568E8CE52C",
+          "participant": "628977800327@s.whatsapp.net",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770903303,
+        "pushName": "Andita Muniarti",
+        "broadcast": true,
+        "message": {
+          "senderKeyDistributionMessage": {
+            "groupId": "status@broadcast",
+            "axolotlSenderKeyDistributionMessage": "MwimqIXhBRAAGiAU2dZp2yN6MrFegJunsA4oi4nLmTQRENRK6KQEQPyP6iIhBTC6M/r9yTfV7WJhI43tyJHyFNlm51UYFA5FRhictTIM"
+          },
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/586528032_908681648217394_1730854432496343887_n.enc?ccb=11-4&oh=01_Q5Aa3wFGM4QltDtho2VTHZacnOsMtUAcFBLuQU6ja77KUCl9RQ&oe=69B554D7&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Waktunya berburu",
+            "fileSha256": "WlLVKlypu700evWsvm3VoF6aonu26m8XeghQEj7WIFk=",
+            "fileLength": "88613",
+            "height": 1280,
+            "width": 590,
+            "mediaKey": "3F9QgG4jTb9OFsITqv1+hKmTBMxVyv8f7LHBwi/C0kE=",
+            "fileEncSha256": "Qb6agHvAL6pN0LGeAEYAZ053KkGWdWgT4gHQWWw11CU=",
+            "directPath": "/v/t62.7118-24/586528032_908681648217394_1730854432496343887_n.enc?ccb=11-4&oh=01_Q5Aa3wFGM4QltDtho2VTHZacnOsMtUAcFBLuQU6ja77KUCl9RQ&oe=69B554D7&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1770903292",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABEMDQ8NCxEPDg8TEhEUGSocGRcXGTQlJx8qPTZBQDw2OzpETGJTREhcSTo7VXRWXGVobW5tQlJ4gHdqf2JrbWn/2wBDARITExkWGTIcHDJpRjtGaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWn/wgARCABgACwDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAwQFAQIGAP/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAADt8+CM4xg1MIgvrNezrdEUNjpXuTv2P8rdLdTJ/TTMybeXrWrkmeemssAJVNErOYAqQmOv2TXSuWBeJpWc6zoM2JrRrTyf/8QAGxEAAwACAwAAAAAAAAAAAAAAAAERECECEjH/2gAIAQIBAT8Az23Csqfg+KHvQlClw6NidLn/xAAfEQACAgEEAwAAAAAAAAAAAAABEQACAxASIbFBgZH/2gAIAQMBAT8A1NeHC2hBuBVoLRq0JZcGAkDkfRBjpVi1h31MlKAOtn6MAB8xQhRc6//EADoQAAIBAwIDAwcJCQAAAAAAAAECAwAEERIhBRMxQVFhFCIyYoGR8AYQFXGCkrHR4SNSU5OhorLB0v/aAAgBAQABPwCXnZHKKAb51A+youYAecyE520jG3xmsjvpidJ04z2Zp+fqXQ0QXPnZBzjHZ7fmeJWDZJGTk71Etuz5jn1nc4Emf6Vyx30UAGScAVoSRThsg7ZBpV0qFHQUc7+d52dxrIoK3Zj+YakuEtYnknlSNFGSzuSAPb4kU3HIApfymDR+8Xx/qouN2ZQk3cOe7Jx+FW1x5VAs0LJJG+6shyDV7PfxcT0gwpbtnBILH66h5rQ6JSQ3QSEBdXgBXHLcJwO6Uq3K0qCmevnjto8PheMQpzW2AOZDsPGpbSELyo55ZJwCX0HOkd/hXyZUJwC0Vc4CnGT6xqRNYIyQewg1xLjU/DOIpZvHJcTNuxjBJAPQLkdauWv7rgF15ZbLbZC8sGTLEZGdXjVhLM0rQwouqTdpGGdKjwq5mHDVMEJVpH3dwckfrXyfQx8FtVPUKfxNSNxHnycuSDl6jpyu4HjvUcl0AvMClx1wo/6q6HPtJU5Y3A9PBB3+uo+FI0n7W2hZcdg3/wAqHCrUgDySL4+1UMSQRLHEoVFGAo7KZgJGGvBLHb4WopIiFBbWzd4/SrjCwN2AY8O2kdmPm5P2h0+7UZDHDxqp7Mb/ADXf0mLmQQWaPHq81jId/wC6mm4xpOLRCe74arf6SuoZobuMWqlMJJGfOB99LwWcHficx8Dn86bgs5ORxKZfAZ/OraIwW6RNI0pUYLt1NSSyiRgOgO21NdusgjMih2GQpxk1bSyPIwfoB3VLNFG2CRzDsF76jkRvR2PdQ6VxO3v553EMqLEDsAxU+3ap+DcVa45uzspGk83J95rhIu+S63WBLg6Wzn34rTf2mTcRmdf4kRyw9hoE3sqpaXc0Eh9MiLIA9vT30g0oq5JwMZPU1LxB0nkTyFmCsRq1rv41HdKyBmg0nu1LtTOnJZ4ioPTO21a59gCufZSyS8wZKMCegI+bG53bc59I1jpktt6xogaSMtv6xrR6z/eNavAVr8K///4AAwD/2Q==",
+            "contextInfo": {
+              "featureEligibilities": {
+                "canBeReshared": false
+              },
+              "statusSourceType": "IMAGE"
+            },
+            "firstScanSidecar": "62tYuGABVNlbkg==",
+            "firstScanLength": 6602,
+            "scansSidecar": "62tYuGABVNlbkowU3/x1slgS+sFYYs3WbEd2g+MA0o9ivCLunhpuBw==",
+            "scanLengths": [
+              6602,
+              37640,
+              17432,
+              26937
+            ],
+            "midQualityFileSha256": "OBesdrVxqoWOKT8VSRLZyFR7Jt23BeEAF48DmgItDWw=",
+            "imageSourceType": "USER_IMAGE"
+          },
+          "messageContextInfo": {
+            "messageSecret": "9OqZfvkaCNtgSwe6VU1JjmhN8CjwWS+C2/5VuTI2m98="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "status@broadcast",
+          "remoteJidAlt": "174857127985266@lid",
+          "fromMe": false,
+          "id": "3AF872BD9494A3A6704F",
+          "participant": "628568625127@s.whatsapp.net",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770913364,
+        "pushName": "History Unveiled Channel🌍",
+        "broadcast": true,
+        "message": {
+          "senderKeyDistributionMessage": {
+            "groupId": "status@broadcast",
+            "axolotlSenderKeyDistributionMessage": "Mwjv5o+ZBhAAGiAd1gUWCE6h/Oh32nINi6sSKG1zPv9vd9yGsilI5w2DyyIhBYVmahb51sPYkjQo4B0nY8GS4/p4pkNlcjRfQF6fTyFH"
+          },
+          "extendedTextMessage": {
+            "text": "https://youtube.com/shorts/q-N5QFsdBkU?si=2J57vXbyIFEd1dk3",
+            "matchedText": "https://youtube.com/shorts/q-N5QFsdBkU?si=2J57vXbyIFEd1dk3",
+            "description": "Humanity feels permanent.But Earth has erased life before. And it will again.#Earth #Humanity #MassExtinction #History",
+            "title": "When Earth Resets. Humans Are Just a Phase.",
+            "backgroundArgb": 4290097958,
+            "font": "SYSTEM",
+            "previewType": "VIDEO",
+            "jpegThumbnail": "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",
+            "thumbnailDirectPath": "/v/t62.36144-24/634765201_1826563211355006_8863848601716815049_n.enc?ccb=11-4&oh=01_Q5Aa3wEKUc3b_-ViPSiYHo551_EF94fiAb5stD0Z5i5aGIDWvw&oe=69B58A1F&_nc_sid=5e03e0",
+            "thumbnailSha256": "ljZcRpbiSzOO3ai5p2RgIWk/rVdtaQ5a29oSAJ6sP4o=",
+            "thumbnailEncSha256": "H4NLJMbiOGzi7ARsnuj7YBSdU38Cx+Mnp/Anz6HPooI=",
+            "mediaKey": "OhjwwdrQGbmkmyC8d0PcmW/4ek6n0cUcVhTu8hxjnO0=",
+            "mediaKeyTimestamp": "1770913357",
+            "thumbnailHeight": 720,
+            "thumbnailWidth": 405,
+            "inviteLinkGroupTypeV2": "DEFAULT",
+            "videoHeight": 720,
+            "videoWidth": 405,
+            "faviconMMSMetadata": {
+              "thumbnailDirectPath": "/v/t62.36144-24/635039533_1197160432407551_4777902817749200067_n.enc?ccb=11-4&oh=01_Q5Aa3wH_KQlE_NbgjF_1IGlZzKvRDo4LFGd53QA_TZAEQa9jIA&oe=69B5853A&_nc_sid=5e03e0",
+              "thumbnailSha256": "ks62Z+eR7jqRnHiHRhflf193+f8JAECcq5uKHsGGtTA=",
+              "thumbnailEncSha256": "SrVohPQhqBsA1moCcPjBF6k4u8XcNkHYSHPE/N4EBzE=",
+              "mediaKey": "OhjwwdrQGbmkmyC8d0PcmW/4ek6n0cUcVhTu8hxjnO0="
+            },
+            "linkPreviewMetadata": {
+              "fbExperimentId": 0,
+              "linkMediaDuration": 0,
+              "socialMediaPostType": "NONE",
+              "linkInlineVideoMuted": false,
+              "videoContentUrl": "https://www.youtube.com/embed/q-N5QFsdBkU"
+            }
+          },
+          "messageContextInfo": {
+            "messageSecret": "L0I9DQvBxmZ7+b/IVuYyIANebLws/aMvrJGYa9zOvVM="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "status@broadcast",
+          "remoteJidAlt": "236107337871430@lid",
+          "fromMe": false,
+          "id": "ACA05BF10CFE416338F2F816FAAB4952",
+          "participant": "628112702713@s.whatsapp.net",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770944059,
+        "pushName": "Anis Heru S",
+        "broadcast": true,
+        "message": {
+          "senderKeyDistributionMessage": {
+            "groupId": "status@broadcast",
+            "axolotlSenderKeyDistributionMessage": "Mwis2KGnAhAAGiBmHo6K7+sAHCkNVhtv5L0TJGtAR1VAfewOazQvcpIjACIhBd+Q7bx/XnKnxBYw7XvNikCRPXbIpIPyFsmGQUH6Q18E"
+          },
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7161-24/592919246_1671490477168480_8589163161935048293_n.enc?ccb=11-4&oh=01_Q5Aa3wGKOMNyZtveUy_vAHsi5G-1sKOxlHs55T54XSAh7o4-JA&oe=69B5FD30&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "oZFXMpIulA/K2xkxfXW1nzwsgngJUztHB3TlZFkPCmU=",
+            "fileLength": "9423606",
+            "seconds": 61,
+            "mediaKey": "GL/Hl57ng0pHi0DZ0Yb01x0AIXfmUOVmcD9rtAp4FpA=",
+            "height": 1280,
+            "width": 720,
+            "fileEncSha256": "OVHOcDl+dVw5YQws8i5rYP4CWis57GzoDoxQa5s8EvA=",
+            "directPath": "/v/t62.7161-24/592919246_1671490477168480_8589163161935048293_n.enc?ccb=11-4&oh=01_Q5Aa3wGKOMNyZtveUy_vAHsi5G-1sKOxlHs55T54XSAh7o4-JA&oe=69B5FD30&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1770944033",
+            "jpegThumbnail": "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",
+            "contextInfo": {
+              "pairedMediaType": "NOT_PAIRED_MEDIA",
+              "statusSourceType": "VIDEO"
+            },
+            "streamingSidecar": "A0oiVVO5NQvt+HUGGi/65c7U7HbXpwRlfrjZGGa8+rm9aWMtYM+BQJaiIB763j3k0i+yqCBbx9RFuwG3Apct6UXfdn7AGBWTwpDqiZlDa/pwUbmbY3cAmycOkv1ZjIaxva/dB+ITSxUzkuKgEy4fAfk5oIGCZQOlrssFr+OLdEFdoSJdgD5YoV4ZvaoNFmwbVCwV8LQbbYcoNPXmR0Di3zpEHDDKZAFA5S0UHBF+SrsRC0Xzx0h/tSri8GEKACxOV4RpaDGBlrl6FnctP2tggHwwAoDCPCLcZzNiwidawvo8cyodDcTW0+rmtvATPpIhgbO6SrpRnsMY2AYLGNxaC9SfMnU7Tcp+i1i9YgwDIHEIcAWoKJQ5xPXFY99Fbnq3COKCRHiLhDXITNscJQYeqHb3ixWA4ozubefCn+VORG3n44DTlIUxSEx6+AvaQsYqmuIXmplLKw7/PxTNy+aMtr8GKknGiUzBWE1DHocl/JVCwjp1+PKTxHkXrdz72FFwMfmunyYb16l3+3nG+fL1F3gZ6iUDn7qHivTSM8/jLijky7VQb3pXyYj7qPhRw+XpDA4Ir/y8IkEzs0jVLKf8D4PUreC08OSnYq7Zu9V8b0wdKqpp9u7u30MPFCZLsDVrRyP5GnFDZ3CkK0wD2EhC3wHXdBkgL1oqN74fF/uFuynxOwNVZBM+pS9ky/zvT45I9meYPjcrGRl9uNrRiSy0Ue3SqqtLXZtmHX9G5bTv9te1QBFYW37kZfEJAXP1Br4CF+qssK4rtFuALwx/RrHIV6pqCqksMIyyjRzUYm+kbFRiwhJzv7KxtXdMiq5yLT/zFR1TBssMto26q2WAjzKIUEjGWLABXZCVmkHOoiGLIVMGsITa2BjFbqhbyNmZPMfZtc/jmAKWXxUyIC2OwvfTMXtEuWH4+qlph9KGI24solCisen/hSdNFD2OZhRvqC6TWESjqNFT0soA1pVGtmsgr33DE4JdV2sFFOSbOomyunZSY1LwVvrNUgqZbg2UQH+JWscJ/qp5dcQ1JD4MPRo9toGedIkPHZs7HSgFRhp0n18bm3oZHfAvxE3gZvfdgqpcLShmh87GXFwQGwElwAxXAlVJbWS9YEsxpaSefY4Gefs2i0skgp5jaEJ+zlHYrG9OgSbDgzSr9MD0ta4E56eeYgdioMyozrztzlBK2DjkJEp1Db0YmBYi5mZJC90Fmy+eiuvGqQvUZBbZPcqOkKTcYHgECEfG6C7eBeMuB7MIMGGTOYV0IR0OwKn3VnKIKUq2y8gtuWfZQ8TBTPcRotcdx14hcvHgE7Q+RgNuMRcUh6yGZOfW7C/J16mTlmF0jvltDHJUask4fDlKlUF7NGhgWRVTGwQWX4cc6h6pe4lpQSgL/eqMeFVqqeGP55LZ0lkqzxkA2TWMe4+rivxTiHM562soJfw3V0IAjacJHqryVf3UvoSlRLtXBI4aor0e/vYAA9i9dkRm8GEbiCW/lv2OJJ7KAn+/OfR4qnUkxz0Lc1XXMI1swzjWyElfC41t+ibMKhtB4h/wEyZfVoy9Gyxzz/WuxwSeCnUiWWz7gG5Snt6qGhoqP3d+KvRWC9pWDqXBUFXhoMAXRYLNFgRNDIzb5LBrGoiPeSnFf0mpMNenaE7xd5/Q8H39geNwOrNCGSW10dIl1afQa7kyvpL1AOESP8c9NrrMBNNtWryrVoTR2Xe562BdNrK1YZFBRGAQ6+8XBCR45gZwXnI+tZoM1fosUSF7Y09VX6wTFYAPy3JMdzoNlCm6IiPSnu5y6n0gZclk59dFD3ZrXMRGteNRNklfyIpnQrMVJwKg++a86133VKQrS+yzL0iV+RdKGv5+CqR4hZJAVDCtukOLN/nUuzh2Yi74snztQVg3NvmEmCuBQKCxPLkM+0U10TnonIeFfXr7",
+            "thumbnailDirectPath": "/v/t62.36147-24/582980480_900886842677968_3751336741076584269_n.enc?ccb=11-4&oh=01_Q5Aa3wGB3pmZsEIc7ZQKcn4-GH0Q4eDVba2dipvgMRmO616mGA&oe=69B5F5BD&_nc_sid=5e03e0",
+            "thumbnailSha256": "7OE90CfIuZHVQX34PjXstIPdFrr4eOQVGuaFq9JUs4E=",
+            "thumbnailEncSha256": "LQbkZouj4nrpC1hZ+E4yzlNvuWARmfYMHrf1cAzHPvE=",
+            "externalShareFullVideoDurationInSeconds": 0
+          },
+          "messageContextInfo": {
+            "messageSecret": "GrDQwfhHr3CZB6LhCDWMpOgK3POGRxYGRxnZJREYOs0="
+          }
+        }
+      }
+    ],
+    "6281225125437@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3A68E7A761F39A90F6EF",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770901124,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "kamu siapa?",
+            "contextInfo": {
+              "expiration": 7776000,
+              "ephemeralSettingTimestamp": "1757669050",
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "CHAT_SETTING",
+                "initiatedByMe": false
+              }
+            }
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "J5J4HxBKv1Nb2U/Jx6VvaZlPF9/M0/hjBxhgSyc+jvg="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0A90F6F252C970A634F",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770901855,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes",
+            "contextInfo": {
+              "expiration": 7776000,
+              "ephemeralSettingTimestamp": "1757669050",
+              "disappearingMode": {
+                "initiator": "INITIATED_BY_ME",
+                "trigger": "ACCOUNT_SETTING",
+                "initiatedByMe": true
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "rI5dHCfrI+SrffCn9cRVryDvmdxggvJIyZzBYbON9/k=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB034C8AD549744C2FF55",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770901918,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "halo",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "E2STMc4pVibdqemDlfcAN7TBZbffdb2uinOXtcJEDN4=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB08453BCD1330CFDD5C3"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Saya adalah AI Customer Service resmi AffiLink (affilink.id). Saya siap membantu Anda dalam mengelola dan melacak performa link afiliasi melalui platform AffiLink. Apakah ada yang bisa kami bantu lagi? Terima kasih telah menggunakan AffiLink.",
+            "contextInfo": {
+              "stanzaId": "3EB034C8AD549744C2FF55",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "halo",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770901930",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB080D462F4209657725C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "ini tes saja ia"
+          }
+        },
+        "messageTimestamp": "1770902654",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB094CC91C255A66C5ADD"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes lagi ia"
+          }
+        },
+        "messageTimestamp": "1770902782",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB07EAC5E320B5D44F2A7"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "coba realtime gaes"
+          }
+        },
+        "messageTimestamp": "1770902989",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB081D3E5FD22F5420689"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes lagi"
+          }
+        },
+        "messageTimestamp": "1770903205",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0EE71BB3EFDA8D6AA94",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770937702,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "VVf0RvfkJuzE4Ra7lgSUfAEmcDmRuHMet+RnANBbdso=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0B0C71FE0B405B1B8C3"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat Pagi! Saya adalah AI Customer Service resmi AffiLink (affilink.id). Apakah ada yang bisa kami bantu lagi? Terima kasih telah menggunakan AffiLink.",
+            "contextInfo": {
+              "stanzaId": "3EB0EE71BB3EFDA8D6AA94",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "tes",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770937712",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3A4EBCA00B5FBEF781EB",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770945721,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "pagi"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "xp9l9tpXhQgX6c8cH7LStBNlgT+6fzJC9wIM6jk3NnE="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB04EED7A0AD83A5BE3C3"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat Pagi! Saya adalah AI Customer Service resmi AffiLink (affilink.id). Apakah ada yang bisa kami bantu lagi? Terima kasih telah menggunakan AffiLink.",
+            "contextInfo": {
+              "stanzaId": "3A4EBCA00B5FBEF781EB",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "pagi"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770945787",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3ADBB81FECA3C2805674",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770945892,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "halo"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "ayg7BR97CQHJrRY6gWsyNjHaS7l1Di3pjgZgNVp7LWE="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB06DCF69A91A5972E244"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat pagi! Saya adalah AI Customer Service resmi Affilink (affilink.id). Saya siap menjawab pertanyaan Anda mengenai platform kami untuk membantu pengguna membuat, mengelola, dan melacak performa link afiliasi. Kami menyediakan beberapa fitur utama seperti pembuatan affiliate link, dashboard statistik klik dan komisi, campaign management, dan custom / short link. Apakah ada yang bisa kami bantu lagi?",
+            "contextInfo": {
+              "stanzaId": "3ADBB81FECA3C2805674",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "halo"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770945927",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0083FF63494D0287AE6",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770946408,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes",
+            "contextInfo": {
+              "expiration": 7776000,
+              "ephemeralSettingTimestamp": "1757669050",
+              "disappearingMode": {
+                "initiator": "INITIATED_BY_ME",
+                "trigger": "ACCOUNT_SETTING",
+                "initiatedByMe": true
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "ko+TzgaN+hpKVGPoaTZTJNM7gQBfL4s/x9dJ54x0E2M=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB016BC56F3129B903671",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770946562,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "selamat pagi",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "sQ+oz74XoJyvLuDt05G9JoHjUesj3z9w0QXuv4t+bys=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0C94614F63D3CA1F39C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat pagi! Saya adalah AI Customer Service resmi Affilink (affilink.id). Apakah ada yang bisa kami bantu hari ini?",
+            "contextInfo": {
+              "stanzaId": "3EB016BC56F3129B903671",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "selamat pagi",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770946575",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0B9BEC7088FC55182AD",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770946603,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "gimana cara daftarnya",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "G0+d5r1aGCJR6wElkvS33TlTOZvuEoBIxYLA+7sySdA=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0B7C0E4EF86E4174EC6"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Daftar akun di Affilink adalah proses mudah. Anda bisa mengikuti langkah-langkah berikut:\n\n1. Buka browser dan arahkan ke laman web Affilink (affilink.id).\n2. Pada bagian atas menu, Anda akan melihat tombol \"Daftar.\"\n3. Ikuti langkah-langkah yang diberikan, dimulai dengan mengisi form registrasi.\n4. Setelah itu, harap memverifikasi email Anda dengan kode verifikasi kami kirim ke inbox email Anda.\n5. Jika sudah berhasil mendaftar, Anda akan terdiri dari akun Affilink yang siap digunakan untuk memulai affiliate marketing.\n\nApakah ada yang bisa kami bantu lagi?",
+            "contextInfo": {
+              "stanzaId": "3EB0B9BEC7088FC55182AD",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "gimana cara daftarnya",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770946616",
+        "status": "SERVER_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0EE86FAFC5166B6A524",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770946648,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "terimakasih",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "0dVNNlP2bFzWnaDg6ZgwkxLoIyoFblORk7S/2ek+klA=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0BABE34316474EAFB4D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat pagi! Apakah Anda membutuhkan informasi atau bantuan tentang platform affiliate link kami, Affilink? Kami siap menjawab pertanyaan Anda mengenai fitur-fitur utama, cara daftar akun, dan lain-lain. Pada saat ini, saya akan membagikan informasi tentang fitur-fitur utama yang kami tawarkan:\n\n1. Pembuatan affiliate link: Kami mempermudah pengguna untuk membuat link afiliasi dengan mudah dan cepat.\n2. Dashboard statistik klik dan komisi: Anda bisa melacak performa link afiliasi Anda secara real-time menggunakan dashboards yang kami sediakan.\n3. Campaign management: Anda bisa membuat, mengelola, dan menghapus campaign dengan mudah.\n4. Custom / short link: Kami membantu pengguna dalam membuat link afiliasi yang singkat dan mudah diingat.\n\nApakah ada yang bisa kami bantu lagi?",
+            "contextInfo": {
+              "stanzaId": "3EB0EE86FAFC5166B6A524",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "terimakasih",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770946665",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0D56ACE1B306839824D",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947124,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "halo",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "SCnParJ2ZI5AidzLN8cIC6CCvkDBBLfovDcASaPXNVM=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB06E2A3C5D5FC65F17FB"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat pagi! Saya adalah AI Customer Service resmi Affilink (affilink.id). Ada yang bisa kami bantu?",
+            "contextInfo": {
+              "stanzaId": "3EB0D56ACE1B306839824D",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "halo",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770947128",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB0147A365A9029CCAA97",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947150,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "halo",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "j/dElxNVwmbvBUDJyguQBMOcPzxNHCGUqxXmW5qAkeA=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB09B4417AF87F32CDF96"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat pagi. Ada yang bisa kami bantu?",
+            "contextInfo": {
+              "stanzaId": "3EB0147A365A9029CCAA97",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "halo",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770947154",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "remoteJidAlt": "246196165734423@lid",
+          "fromMe": false,
+          "id": "3EB04E860CE97E2E17C8D5",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947158,
+        "pushName": "AlfansyahDR",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": "siapa namaku",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          },
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "ofF1ENs22zX1MA==",
+              "senderTimestamp": "1770686261",
+              "senderAccountType": "E2EE",
+              "receiverAccountType": "E2EE",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1770780625"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "/jBHg+G+fEw9l2HUbDfoyg6wRyUJwn/AxejXc0XWMk8=",
+            "limitSharingV2": {
+              "trigger": "UNKNOWN",
+              "initiatedByMe": false
+            }
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6281225125437@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB05EB3906B27A98012A5"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Mohon maaf, sebagai AI Customer Service, saya tidak memiliki akses ke informasi pribadi Anda, termasuk nama Anda. Apakah ada hal lain yang bisa kami bantu terkait layanan AffiLink?",
+            "contextInfo": {
+              "stanzaId": "3EB04E860CE97E2E17C8D5",
+              "participant": "6281225125437@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "siapa namaku",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770947162",
+        "status": "DELIVERY_ACK"
+      }
+    ],
+    "6281515142878@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6281515142878@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB07981CEC9DA414CEC59"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "ini tes saja ia"
+          }
+        },
+        "messageTimestamp": "1770902670",
+        "status": "SERVER_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281515142878@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB04195A85EF20A56B0D6"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes lagi ia"
+          }
+        },
+        "messageTimestamp": "1770902802",
+        "status": "SERVER_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281515142878@s.whatsapp.net",
+          "remoteJidAlt": "95404276359292@lid",
+          "fromMe": false,
+          "id": "3A7C688465A215AA526D",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770933999,
+        "pushName": "Savira Rainanda",
+        "broadcast": false,
+        "message": {
+          "conversation": "Hai amas",
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderTimestamp": "1770907714",
+              "recipientKeyHash": "i7wEU4C+vrqnDA==",
+              "recipientTimestamp": "1768963865"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "90HE5bkrIeJ1E6mYQKZK7CaD3goOriZG5sZD9evA8js="
+          }
+        }
+      }
+    ],
+    "6285713882819@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6285713882819@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB03B356608AB190AFF7D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "coba realtime gaes"
+          }
+        },
+        "messageTimestamp": "1770903005",
+        "status": "SERVER_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6285713882819@s.whatsapp.net",
+          "remoteJidAlt": "276867181461715@lid",
+          "fromMe": false,
+          "id": "3EB08491766DF743215FD3",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770903031,
+        "pushName": "AffiLink",
+        "broadcast": false,
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat Malam! Saya adalah AI Customer Service resmi Affilink (affilink.id). Saya tersedia untuk membantu Anda dengan pertanyaan-pertanyaan yang Anda miliki mengenai platform affiliate link kami.\n\nAffilink merupakan platform untuk membantu pengguna dalam membuat, mengelola, dan melacak performa link afiliasi. Kami menyediakan beberapa fitur utama seperti pembuatan affiliate link, dashboard statistik klik dan komisi, campaign management, serta custom / short link.\n\nJika Anda memiliki pertanyaan umum atau kendala ringan, saya akan menjawab langsung ke inti. Namun, jika Anda memiliki masalah yang lebih kompleks, seperti komisi, pembayaran, atau bug sistem, maka saya akan arahkan ke tim support AffiLink untuk memperoleh solusi utama.\n\nTidak ada batasan bagi Anda untuk menanyakan pertanyaan apapun. Jika ada yang bisa kami bantu lagi, silakan tanyakan! Terima kasih telah menggunakan Affilink."
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6285713882819@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0C27369FC7F930AA71C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": " Selamat Malam! Saya adalah AI Customer Service resmi Affilink (affilink.id). Saya tersedia untuk membantu Anda dengan pertanyaan-pertanyaan yang Anda miliki mengenai platform affiliate link kami.\n\nAffilink merupakan platform untuk membantu pengguna dalam membuat, mengelola, dan melacak performa link afiliasi. Kami menyediakan beberapa fitur utama seperti pembuatan affiliate link, dashboard statistik klik dan komisi, campaign management, serta custom / short link.\n\nJika Anda memiliki pertanyaan umum atau kendala ringan, saya akan menjawab langsung ke inti. Namun, jika Anda memiliki masalah yang lebih kompleks, seperti komisi, pembayaran, atau bug sistem, maka saya akan arahkan ke tim support AffiLink untuk memperoleh solusi utama.\n\nTidak ada batasan bagi Anda untuk menanyakan pertanyaan apapun. Jika ada yang bisa kami bantu lagi, silakan tanyakan! Terima kasih telah menggunakan Affilink.",
+            "contextInfo": {
+              "stanzaId": "3EB08491766DF743215FD3",
+              "participant": "6285713882819@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": " Selamat Malam! Saya adalah AI Customer Service resmi Affilink (affilink.id). Saya tersedia untuk membantu Anda dengan pertanyaan-pertanyaan yang Anda miliki mengenai platform affiliate link kami.\n\nAffilink merupakan platform untuk membantu pengguna dalam membuat, mengelola, dan melacak performa link afiliasi. Kami menyediakan beberapa fitur utama seperti pembuatan affiliate link, dashboard statistik klik dan komisi, campaign management, serta custom / short link.\n\nJika Anda memiliki pertanyaan umum atau kendala ringan, saya akan menjawab langsung ke inti. Namun, jika Anda memiliki masalah yang lebih kompleks, seperti komisi, pembayaran, atau bug sistem, maka saya akan arahkan ke tim support AffiLink untuk memperoleh solusi utama.\n\nTidak ada batasan bagi Anda untuk menanyakan pertanyaan apapun. Jika ada yang bisa kami bantu lagi, silakan tanyakan! Terima kasih telah menggunakan Affilink."
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1770903047",
+        "status": "SERVER_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6285713882819@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3EB0A38C34CFA4DDCDDC67"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "tes lagi"
+          }
+        },
+        "messageTimestamp": "1770903215",
+        "status": "SERVER_ACK"
+      }
+    ]
+  },
+  "contacts": {}
+}

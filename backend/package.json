@@ -1,0 +1,25 @@
+{
+  "name": "wa-gateway-multi-device",
+  "version": "1.0.0",
+  "description": "WhatsApp Gateway Multi-Device with API Key & Message Queue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^1.41.0",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.13.5",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mysql2": "^3.11.0",
+    "pino": "^10.3.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "uuid": "^11.1.0"
+  }
+}
