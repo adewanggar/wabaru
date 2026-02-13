@@ -7,7 +7,6 @@ import ChatHistory from "./components/ChatHistory.vue";
 import PinAuth from "./components/PinAuth.vue";
 
 const currentView = ref("devices");
-const isDark = ref(true);
 const isAuthenticated = ref(false);
 
 const handleAuthenticated = () => {
@@ -15,14 +14,7 @@ const handleAuthenticated = () => {
   localStorage.setItem("wa_gateway_auth", "true");
 };
 
-const toggleDarkMode = () => {
-  isDark.value = !isDark.value;
-  if (isDark.value) {
-    document.documentElement.classList.add("dark");
-  } else {
-    document.documentElement.classList.remove("dark");
-  }
-};
+
 
 onMounted(() => {
   // Check Auth
@@ -169,14 +161,6 @@ onMounted(() => {
       </div>
     </main>
 
-    <!-- Dark Mode Toggle -->
-    <button
-      class="fixed bottom-6 right-6 w-12 h-12 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full flex items-center justify-center shadow-xl hover:scale-110 transition-transform z-50 text-slate-800 dark:text-white"
-      @click="toggleDarkMode"
-    >
-      <span class="material-icons-round">{{
-        isDark ? "light_mode" : "dark_mode"
-      }}</span>
-    </button>
+
   </div>
 </template>

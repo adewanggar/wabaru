@@ -26,14 +26,14 @@
     },
     "246651465797746@lid": {
       "id": "246651465797746@lid",
-      "conversationTimestamp": 1770946763,
-      "lastMessageRecvTimestamp": 1770946763,
-      "unreadCount": 1
+      "conversationTimestamp": 1770948013,
+      "lastMessageRecvTimestamp": 1770948013,
+      "unreadCount": 3
     },
     "6283857706048@s.whatsapp.net": {
       "id": "6283857706048@s.whatsapp.net",
-      "conversationTimestamp": 1770947656,
-      "lastMessageRecvTimestamp": 1770947656,
+      "conversationTimestamp": 1770948257,
+      "lastMessageRecvTimestamp": 1770948257,
       "unreadCount": 0
     }
   },
@@ -3742,6 +3742,58 @@
             "messageSecret": "CUknIfJZET1wzPkWzS20V7XiLe6WPiGjytzL+8CxLs4="
           }
         }
+      },
+      {
+        "key": {
+          "remoteJid": "246651465797746@lid",
+          "remoteJidAlt": "6283857706048@s.whatsapp.net",
+          "fromMe": false,
+          "id": "3AE8E9046C04FF6B15A2",
+          "participant": "",
+          "addressingMode": "lid"
+        },
+        "messageTimestamp": 1770947688,
+        "pushName": "annisa diyah",
+        "broadcast": false,
+        "message": {
+          "conversation": "kira² kena biaya berapa ya?",
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "96tsOzYvVoH3gA==",
+              "senderTimestamp": "1770695165",
+              "recipientKeyHash": "+7ptIc5NtgVWRw==",
+              "recipientTimestamp": "1770884048"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "/dpXdJSRitrj2mZUwfujwdcirh6lQk5HjJrprKp6YEU="
+          }
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "246651465797746@lid",
+          "remoteJidAlt": "6283857706048@s.whatsapp.net",
+          "fromMe": false,
+          "id": "3A1FBE4D48CA5149EA95",
+          "participant": "",
+          "addressingMode": "lid"
+        },
+        "messageTimestamp": 1770948013,
+        "pushName": "annisa diyah",
+        "broadcast": false,
+        "message": {
+          "conversation": "gabisa pake bpjs kah?",
+          "messageContextInfo": {
+            "deviceListMetadata": {
+              "senderKeyHash": "96tsOzYvVoH3gA==",
+              "senderTimestamp": "1770695165",
+              "recipientKeyHash": "+7ptIc5NtgVWRw==",
+              "recipientTimestamp": "1770884048"
+            },
+            "deviceListMetadataVersion": 2,
+            "messageSecret": "uD+87Py8pgkl95tgJiN445f1eKTP9LXkKFSqiZZg1d4="
+          }
+        }
       }
     ],
     "6283857706048@s.whatsapp.net": [
@@ -3777,6 +3829,42 @@
         "status": 2,
         "message": {
           "conversation": "Selamat pagi, bisa kak silahkan. Untuk USG Adomen wajib appointment terlebih dahulu nggih🙏🏻"
+        },
+        "verifiedBizName": "Customer Care Mitra Medicare - Cahaya Lab"
+      },
+      {
+        "key": {
+          "remoteJid": "6283857706048@s.whatsapp.net",
+          "remoteJidAlt": "246651465797746@lid",
+          "fromMe": true,
+          "id": "3EB0BB553C308C133A40A2",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770947964,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 2,
+        "message": {
+          "conversation": "USG Abdomen Atas/Bawah Rp700.000\nUSG Abdomen Atas+Bawah Rp800.000\n\n*PELAYANAN USG WAJIB PENJADWALAN*\n*Aturan pemeriksaan USG Abdomen* \n1. Puasa 3-4 jam (hanya boleh minum air mineral)\n2. Mendekati jam USG dimohon untuk menahan buang air kecil terlebih dahulu\n3. Diharap datang 15 menit sebelum jam appointment USG"
+        },
+        "verifiedBizName": "Customer Care Mitra Medicare - Cahaya Lab"
+      },
+      {
+        "key": {
+          "remoteJid": "6283857706048@s.whatsapp.net",
+          "remoteJidAlt": "246651465797746@lid",
+          "fromMe": true,
+          "id": "3EB07AA31FA2A8A6E6DFBE",
+          "participant": "",
+          "addressingMode": "pn"
+        },
+        "messageTimestamp": 1770948257,
+        "pushName": "Customer Care Mitra Medicare - Cahaya Lab",
+        "broadcast": false,
+        "status": 2,
+        "message": {
+          "conversation": "Tidak bisa kak"
         },
         "verifiedBizName": "Customer Care Mitra Medicare - Cahaya Lab"
       }
